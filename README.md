@@ -4,7 +4,7 @@
 
 # Project Overview
 
-![Project Overview](Screenshot 2023-06-06 231836.png)
+![Project Overview](project.png)
 
 ## Table of Contents
 
